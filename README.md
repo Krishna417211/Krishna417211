@@ -1,72 +1,134 @@
-<h1 align="center">Hi, I'm Krishna Priya 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>AI & QA Automation Engineer</b> · Kerala, India 🌴<br>
-  I build <b>LLM-powered agents</b>, <b>machine-learning models</b>, and <b>test-automation frameworks</b> — often all three at once.
-</p>
+<img src="./profile-banner.png" alt="Futuristic AI and data banner" width="100%">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Krishna417211&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+# Hi, I'm Krishna Priya 👋
 
----
+### AI/ML Developer | Generative AI • LLMs • Machine Learning
 
-### 🚀 What I do
+I build practical AI solutions—from machine-learning models and data workflows to LLM-powered applications and APIs.  
+I’m focused on turning what I learn into projects that are useful, measurable, and ready to deploy.
 
-- 🤖 **AI / LLM apps** — RAG chatbots, autonomous agents (LangChain, Google ADK), and natural-language interfaces like text-to-SQL and AI data analysts.
-- 🧪 **QA automation** — end-to-end test suites in **Playwright** & **Selenium**, plus AI-assisted test generation and self-healing test workflows.
-- 📈 **Machine learning** — time-series forecasting, NLP (classification & sentiment), and predictive modelling.
-- ⚙️ **Backend & DevOps** — **FastAPI** services and **CI/CD** pipelines that ship them.
+[![GitHub](https://img.shields.io/badge/GitHub-Krishna417211-181717?style=for-the-badge&logo=github)](https://github.com/Krishna417211)
+[![Repositories](https://img.shields.io/badge/Explore-My_Projects-6C63FF?style=for-the-badge&logo=github)](https://github.com/Krishna417211?tab=repositories)
+
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+## `01` — About Me
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- Focused on **AI/ML engineering and Generative AI**
+- Learning and building across the ML lifecycle: data preparation, model training, evaluation, APIs, and deployment
+- Exploring **LLM applications, RAG, AI agents, and MLOps**
+- I value consistency, disciplined learning, and building by doing
+- Recognized as a **Best Performer of the Month three times**, including once as **Overall Best Performer**
+
+> My goal: build AI systems that solve real problems—not just notebooks that run.
+
+## `02` — Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Testra — AI Test Generator
+An AI-focused application project exploring automated test generation and an API-based backend.
+
+**Focus:** Python · FastAPI · AI agents · API design
+
+[View repository →](https://github.com/Krishna417211/ai-test-generator)
+
+</td>
+<td width="50%" valign="top">
+
+### MLflow + DVC MLOps Pipeline
+A practical ML engineering project covering model training, experiment tracking, model versioning, serving, and monitoring components.
+
+**Focus:** Python · MLflow · DVC · FastAPI · Docker · CI/CD
+
+[View repository →](https://github.com/Krishna417211/mlops-tensor1)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Face Recognition App
+A computer-vision project packaged as an application, with a focus on making a model accessible through a usable interface.
+
+**Focus:** Python · Computer Vision · Streamlit
+
+[View repository →](https://github.com/Krishna417211/face_recognition-D-)
+
+</td>
+<td width="50%" valign="top">
+
+### More ML & GenAI Experiments
+I also work on customer analytics and churn prediction, RAG over YouTube content, and LLM-assisted SQL workflows.
+
+**Focus:** Pandas · scikit-learn · LangChain · Gemini · Vector Search
+
+[Explore all repositories →](https://github.com/Krishna417211?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+## `03` — Tech Stack
+
+<div align="center">
+
+**Languages & Data**
+
+<img src="https://skillicons.dev/icons?i=python,c,sql&theme=dark" alt="Python, C, and SQL icons">
+
+**Machine Learning & Generative AI**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" alt="TensorFlow and OpenCV icons">
+
+`NumPy` · `Pandas` · `scikit-learn` · `MLlib` · `LangChain` · `RAG` · `LLMs` · `AI Agents` · `ChromaDB`
+
+**Backend, MLOps & Tools**
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,docker,git,github,linux,aws&theme=dark" alt="FastAPI, Flask, Docker, Git, GitHub, Linux, and AWS icons">
+
+`Streamlit` · `MLflow` · `DVC` · `GitHub Actions` · `PySpark` · `REST APIs`
+
+</div>
+
+## `04` — GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Krishna417211&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub profile statistics">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna417211&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages">
+
+<img src="https://streak-stats.demolab.com?user=Krishna417211&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">
+
+</div>
+
+## `05` — What I'm Exploring
+
+- Building reliable ML pipelines from data preparation through deployment
+- Developing LLM-powered tools with retrieval-augmented generation (RAG)
+- Improving model evaluation, testing, and monitoring
+- Learning cloud deployment and production-oriented AI engineering practices
+
+## `06` — Let's Connect
+
+I'm interested in opportunities and collaborations related to **AI Engineering, Machine Learning, and Generative AI**.
+
+- GitHub: [@Krishna417211](https://github.com/Krishna417211)
+- Projects: [Browse my repositories](https://github.com/Krishna417211?tab=repositories)
+
+<!-- Add your LinkedIn and professional email here when ready. -->
 
 ---
 
-### 🌟 Featured Projects
+<div align="center">
 
-| Project | What it does |
-| --- | --- |
-| 🧠 [**text-to-sql-agent**](https://github.com/Krishna417211/text-to-sql-agent) | Turns plain-English questions into SQL queries with an LLM agent. |
-| 💬 [**langchain-rag-chatbot**](https://github.com/Krishna417211/langchain-rag-chatbot) | Retrieval-augmented chatbot that answers over your own documents. |
-| 📊 [**ai-data-analyst**](https://github.com/Krishna417211/ai-data-analyst) | Ask questions about a dataset in natural language and get analysis back. |
-| 🧪 [**ai-test-generator**](https://github.com/Krishna417211/ai-test-generator) | Generates automated test cases with AI — QA meets LLMs. |
-| 🎭 [**playwright-test-suite**](https://github.com/Krishna417211/playwright-test-suite) | End-to-end browser test suite built with Playwright. |
-| 🧹 [**nlp-preprocessing-toolkit**](https://github.com/Krishna417211/nlp-preprocessing-toolkit) | Reusable NLP text-cleaning & preprocessing utilities. |
+*Build. Learn. Evaluate. Improve. Repeat.*
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Krishna417211&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna417211&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishna417211&hide_border=true&theme=tokyonight" alt="GitHub streak" />
-</p>
-
----
-
-### 🔗 Connect
-
-<p align="center">
-  <a href="mailto:krishnapriya@procap.ai"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-<p align="center"><i>Always building something at the intersection of AI and quality. ✨</i></p>
+</div>
